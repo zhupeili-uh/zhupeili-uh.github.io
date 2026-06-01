@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ConnectU_Logo.jpg
 title: "ConnectU Social Network Backend"
 date: 2026-06-01
 published: true
