@@ -8,6 +8,7 @@ published: true
 labels:
   - Python
   - Raspberry Pi
+  - Robotics
 summary: "This autonomous mecanum rover bridges embedded kinematics with high-level computer vision to create an accessible robotics education platform."
 ---
 
