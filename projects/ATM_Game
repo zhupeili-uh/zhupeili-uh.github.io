@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/ATM_Game_logo_sq.png
 title: "ATM_Gamey"
 date: 2025-05-18
 published: true
@@ -19,6 +19,3 @@ This project is an interactive, multi-bank ATM simulator developed in C++ using 
 
 On the backend, the system leverages Object-Oriented Programming (OOP) and STL containers to enforce rigorous business logic and defensive security measures. Key accomplishments include implementing a secure PIN verification system with real-time character masking and a three-strike fraud-prevention lockout policy. Additionally, the transaction engine handles complex financial compliance, validating withdrawal inputs (multiples of $20), executing overdraft protection, and dynamically calculating cross-bank processing fees—including a ceiling-capped 2% algorithm—based on the user's account institution.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
