@@ -13,7 +13,7 @@ labels:
 summary: "This C++ and SFML-based multi-bank ATM simulator utilizes a finite state machine to deliver an interactive GUI, secure credential verification, and live account transactions. The backend enforces robust business logic, featuring a three-strike fraud-prevention lockout, overdraft protection, and dynamic cross-bank transaction fee calculations."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/ATM_Game_front.png">
 
 This project is an interactive, multi-bank ATM simulator developed in C++ using the SFML framework to deliver an event-driven graphical user interface and integrated audio feedback. Architected around a centralized Finite State Machine (FSM), the application efficiently manages real-time user input and visual rendering to guide users through a multi-tiered banking pipeline, including ATM network selection, credential validation, and live account management.
 
