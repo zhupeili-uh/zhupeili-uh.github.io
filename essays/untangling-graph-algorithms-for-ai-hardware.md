@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Untangling Graph Algorithms for AI Hardware"
+# All dates must be YYYY-MM-DD format!
+date: 2026-06-2
+published: true
+labels:
+  - AI
+  - Algorithms
+---
+
+
 # The Unavoidable Foundation: Graph Algorithms Meet AI Hardware
 
 If you chat with engineers in the tech circles of the Bay Area, you will find that the most popular buzzwords are often "AI infrastructure," "TinyML," or the next generation of consumer electronics. These concepts sound incredibly advanced, almost like sci-fi technologies. But when you strip away the flashy jargon, the backbone supporting these massive systems is actually the fundamental computer science we are all familiar with.
