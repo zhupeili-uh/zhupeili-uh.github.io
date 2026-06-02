@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/ATM_Game_logo_sq.png
-title: "ATM_Gamey"
+title: "ATM_Game"
 date: 2025-05-18
 published: true
 labels:
