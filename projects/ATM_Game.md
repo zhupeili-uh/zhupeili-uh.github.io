@@ -10,7 +10,7 @@ labels:
   - SFML
   - FSM
   - UI / UX & Media
-summary: "This C++ and SFML-based multi-bank ATM simulator utilizes a finite state machine to deliver an interactive GUI, secure credential verification, and live account transactions. The backend enforces robust business logic, featuring a three-strike fraud-prevention lockout, overdraft protection, and dynamic cross-bank transaction fee calculations."
+summary: "Developed a C++/SFML multi-bank ATM simulator featuring an interactive GUI, secure live transactions, overdraft protection, and a three-strike fraud lockout system."
 ---
 
 <img class="img-fluid" src="../img/ATM_Game_front.png">
