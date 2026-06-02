@@ -12,9 +12,9 @@ summary: "This autonomous mecanum rover bridges embedded kinematics with high-le
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/rover2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/rover1.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/rover3.png" class="img-thumbnail" >
 </div>
 
 While a microcontroller handles low-level motor functions, the rover's autonomy is driven by a Raspberry Pi, where I engineered the core target detection software. The vision program runs in a dedicated thread parallel to the rover's search logic, continuously analyzing live PiCam frames.
