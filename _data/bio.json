@@ -4,35 +4,30 @@
     "label": "Student",
     "picture": "https://zhupeili-uh.github.io/img/profilepicsq.png",
     "email": "zhupeili@hawaii.edu",
-    "phone": "808-333-4444",
     "website": "https://zhupeili-uh.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zhupeili-uh", "url": "https://github.com/zhupeili-uh" },
       { "network": "linkedin", "username": "zhupeili", "url": "https://www.linkedin.com/in/peili-zhu-97a0b3413/" },
-      { "network": "twitter", "username": "zhupeili", "url": "http://twitter.com" },
-      { "network": "instagram", "username": "zhupeili", "url": "http://instagram.com/" }
     ]
   },
   "interests": [
     { "name": "Artificial Intelligence Engineering" },
     { "name": "Algorithm Design & Optimization" },
-    { "name": "Technical Communication & Documentation" },
-    { "name": "TinyML & Edge AI" },
-    
+    { "name": "Technical Communication & Documentation" },  
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Python", "Assembly" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
-  "education": [
+   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Fall, 2026)",
@@ -42,8 +37,8 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
+  ], 
+  "_work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -69,7 +64,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -96,7 +91,7 @@
       ]
     }
   ],
-  "awards": [
+  "_awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -110,9 +105,12 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Available upon request"
     }
   ]
+
+"_comment":
 }
+
