@@ -24,18 +24,3 @@ ConnectU is a semester-long software development project for the ECE 367L Data S
 
 To ensure the application could scale efficiently, I manually implemented several core data structures to solve specific backend challenges. I engineered a custom Hash Map with chaining to optimize user lookups to O(1) time complexity, and built a Max Heap (Priority Queue) to power an algorithmic feed that dynamically sorted "viral" posts based on likes and recency. Additionally, the project utilized Linked Lists for dynamic chronological timelines, Binary Search Trees (BST) for alphabetical sorting, and Breadth-First Search (BFS) graph traversal to generate friend recommendations.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
