@@ -15,7 +15,7 @@ summary: "A fully functional backend system for a text-based social network buil
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/connectu.png" class="img-thumbnail" >
+  <img width="500px" src="../img/connectu.png" class="img-thumbnail" >
 </div>
 
 ConnectU is a semester-long software development project for the ECE 367L Data Structures and Algorithms lab, where I acted as a Backend Engineer for a simulated social media startup. The primary objective was to build a fully functional text-based social network capable of handling users, posts, friendships, and algorithmic feeds. The application was developed using C++, with continuous version control managed through GitHub and terminal environments.
