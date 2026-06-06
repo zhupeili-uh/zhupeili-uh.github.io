@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E10: "Taming the JavaScript Wild West: First Impressions of TypeScript"
+title: "E10: Taming the JavaScript Wild West: First Impressions of TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-06
 published: true
