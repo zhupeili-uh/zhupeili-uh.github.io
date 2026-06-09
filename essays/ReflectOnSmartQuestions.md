@@ -32,7 +32,7 @@ In this instance, the developer provided a clean, minimal code snippet and compa
 ### Case Study: A Lesson in Inefficient Communication
 To illustrate the negative outcomes of poor communication, consider this scenario:
 
-![Example of a not-so-smart question](https://zhupeili-uh.github.io/img/bad-question.png)
+![Example of a not-so-smart question](https://zhupeili-uh.github.io/img/bad_question.png)
 *(Figure 2: A poorly formulated question lacking context and research end up being discarded.)*
 
 > **Title:** "Code is broken, please help me!"
