@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E11：The Art of Inquiry: Effective Communication for Software Engineers"
+title: "The Art of Inquiry: Effective Communication for Software Engineers"
 date: 2026-06-08
 published: true
 labels:
