@@ -20,7 +20,11 @@ A "smart" question is the mark of an engineer who values precision, demonstrates
 ### Case Study: A Model for Effective Collaboration
 A prime example of a smart inquiry can be found on Stack Overflow: [“Python: else ValueError: (Specifically ValueError In This Case)”](https://stackoverflow.com/questions/37515172/python-else-valueerror-specifically-valueerror-in-this-case).
 
-![Example of a smart question](https://zhupeili-uh.github.io/img/good_question.png)
+<div align="center" style="margin: 20px 0;">
+  <img src="../img/good_question.png" alt="Example of a smart question" style="max-width: 60%; height: auto;">
+  <br>
+  <em>(Figure 1: A well-structured question demonstrating clear context and code.)</em>
+</div>
 *(Figure 1: A well-structured question demonstrating clear context and code.)*
 
 In this instance, the developer provided a clean, minimal code snippet and compared it against their expected logical outcome. 
@@ -32,7 +36,11 @@ In this instance, the developer provided a clean, minimal code snippet and compa
 ### Case Study: A Lesson in Inefficient Communication
 To illustrate the negative outcomes of poor communication, consider this scenario:
 
-![Example of a not-so-smart question](https://zhupeili-uh.github.io/img/bad_question.png)
+<div align="center" style="margin: 20px 0;">
+  <img src="../img/bad_question.png" alt="Example of a not-so-smart question" style="max-width: 60%; height: auto;">
+  <br>
+  <em>(Figure 2: A poorly formulated question lacking context and research.)</em>
+</div>
 *(Figure 2: A poorly formulated question lacking context and research end up being discarded.)*
 
 > **Title:** "Code is broken, please help me!"
