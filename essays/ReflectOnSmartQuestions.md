@@ -36,12 +36,6 @@ In this instance, the developer provided a clean, minimal code snippet and compa
 ### Case Study: A Lesson in Inefficient Communication
 To illustrate the negative outcomes of poor communication, consider this scenario:
 
-<div align="center" style="margin: 20px 0;">
-  <img src="../img/bad_question.png" alt="Example of a not-so-smart question" style="max-width: 60%; height: auto;">
-  <br>
-  <em>(Figure 2: A poorly formulated question lacking context and research end up being discarded.)</em>
-</div>
-
 > **Title:** "Code is broken, please help me!"
 > **Content:** "I'm working on my assignment and I keep getting a ValueError in Python. My code won't run. Please help ASAP!"
 
@@ -49,6 +43,11 @@ To illustrate the negative outcomes of poor communication, consider this scenari
     1. **Lack of Context:** No stack trace or code provided.
     2. **Emotional Entitlement:** Treating the community as an urgent help desk.
 * **The Outcome:** In a rigorous environment like Stack Overflow, such a post is typically closed within minutes for being "unclear." 
+<div align="center" style="margin: 20px 0;">
+  <img src="../img/bad_question.png" alt="Example of a not-so-smart question" style="max-width: 60%; height: auto;">
+  <br>
+  <em>(Figure 2: A poorly formulated question lacking context and research end up being discarded.)</em>
+</div>
 
 ## Insights and Personal Growth
 
