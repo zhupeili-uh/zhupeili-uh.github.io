@@ -11,7 +11,7 @@ labels:
 ---
 
 
-In the professional life of a software engineer, writing code is only half the battle; the other half is communicating effectively. As Eric Raymond outlines in his seminal essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," the quality of the assistance one receives is directly proportional to the effort invested in the question itself. For an engineering student, mastering this form of communication is not just about solving bugs—it is about establishing professional credibility and respecting the time of the global developer community.
+In the professional life of a software engineer, writing code is only half the battle; the other half is communicating effectively. As Eric Raymond outlines in his seminal essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," the quality of the assistance one receives is directly proportional to the effort invested in the question itself. For an engineering student, mastering this form of communication is not just about solving bugs—it is about establishing professional credibility and respecting the time of the global developer community. 
 
 ## Defining the "Smart" Way
 
@@ -25,7 +25,7 @@ A prime example of a smart inquiry can be found on Stack Overflow: [“Python: e
   <br>
   <em>(Figure 1: A well-structured question demonstrating clear context and code.)</em>
 </div>
-*(Figure 1: A well-structured question demonstrating clear context and code.)*
+
 
 In this instance, the developer provided a clean, minimal code snippet and compared it against their expected logical outcome. 
 * **Why it succeeded:** The user provided a "Minimal Reproducible Example," enabling the community to pinpoint the error immediately.
@@ -41,7 +41,6 @@ To illustrate the negative outcomes of poor communication, consider this scenari
   <br>
   <em>(Figure 2: A poorly formulated question lacking context and research.)</em>
 </div>
-*(Figure 2: A poorly formulated question lacking context and research end up being discarded.)*
 
 > **Title:** "Code is broken, please help me!"
 > **Content:** "I'm working on my assignment and I keep getting a ValueError in Python. My code won't run. Please help ASAP!"
