@@ -21,7 +21,7 @@ A "smart" question is the mark of an engineer who values precision, demonstrates
 A prime example of a smart inquiry can be found on Stack Overflow: [“Python: else ValueError: (Specifically ValueError In This Case)”](https://stackoverflow.com/questions/37515172/python-else-valueerror-specifically-valueerror-in-this-case).
 
 <div align="center" style="margin: 20px 0;">
-  <img src="../img/smart_question.png" alt="Example of a smart question" style="max-width: 30%; height: auto;">
+  <img src="../img/smart_question.png" alt="Example of a smart question" style="max-width: 42%; height: auto;">
   <br>
   <em>(Figure 1: A well-structured question demonstrating clear context and code.)</em>
 </div>
@@ -44,7 +44,7 @@ To illustrate the negative outcomes of poor communication, consider this scenari
     2. **Emotional Entitlement:** Treating the community as an urgent help desk.
 * **The Outcome:** In a rigorous environment like Stack Overflow, such a post is typically closed within minutes for being "unclear." 
 <div align="center" style="margin: 20px 0;">
-  <img src="../img/bad_question.png" alt="Example of a not-so-smart question" style="max-width: 60%; height: auto;">
+  <img src="../img/bad_question.png" alt="Example of a not-so-smart question" style="max-width: 40%; height: auto;">
   <br>
   <em>(Figure 2: A poorly formulated question lacking context and research end up being discarded.)</em>
 </div>
