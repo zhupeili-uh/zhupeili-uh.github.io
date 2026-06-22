@@ -5,13 +5,12 @@ title: "ESLint: The Strict Code Reviewer Living in My VSCode"
 date: 2026-06-22
 published: true
 labels:
-  - ESlint
+  - ESLint
   - Coding Standards
 ---
 
 
 
-ESLint: The Strict Code Reviewer Living in My VSCode
 When people hear the term "coding standards," the first thing that usually comes to mind is the endless, often petty debate: spaces or tabs? Where does the curly brace go? For a long time, I viewed these rules as just cosmetic preferences. As long as the code compiles and the program runs, who cares if the indentation is a bit messy?
 
 However, after spending the past week wrestling with ESLint in VSCode while setting up my professional portfolio website, my perspective has completely shifted. I'm starting to realize that coding standards aren't just about making your code look pretty for the next person who reads it; they are actually a real-time learning tool.
@@ -38,7 +37,8 @@ I noticed that ESLint wasn't just nagging me about formatting; it was catching a
 ```javascript
 // ESLint taught me to avoid careless mistakes like this:
 let userCount = 10;
-usercount = 11; // ESLint catches this typo immediately!```
+usercount = 11; // ESLint catches this typo immediately!
+```
 
 I started to agree with the idea that coding standards help you learn a language. JavaScript can be famously forgiving—sometimes too forgiving. It lets you get away with sloppy practices that will eventually break your application. ESLint acts as a guardrail. By forcing me to write code that adheres to a strict standard, it's essentially training my muscle memory to write cleaner, more secure, and more efficient JavaScript from the start.
 
@@ -49,5 +49,4 @@ It's painful in the same way going to the gym is painful. The initial setup and 
 
 I might still get annoyed when ESLint yells at me for a missing space inside a bracket, but I’ve learned to trust the red squiggly lines. They are making me a better software engineer.
 
-_Note: I utilized generative AI (Gemini) strictly as an outlining and proofreading assistant to help structure my thoughts and refine the grammar of this essay, ensuring my personal reflections were communicated clearly.
-_
+*Note: I utilized generative AI (Gemini) strictly as an outlining and proofreading assistant to help structure my thoughts and refine the grammar of this essay, ensuring my personal reflections were communicated clearly.
