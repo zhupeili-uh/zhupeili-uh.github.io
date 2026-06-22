@@ -49,4 +49,6 @@ It's painful in the same way going to the gym is painful. The initial setup and 
 
 I might still get annoyed when ESLint yells at me for a missing space inside a bracket, but I’ve learned to trust the red squiggly lines. They are making me a better software engineer.
 
+
+
 *Note: I utilized generative AI (Gemini) strictly as an outlining and proofreading assistant to help structure my thoughts and refine the grammar of this essay, ensuring my personal reflections were communicated clearly.*
