@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Beyond the Grid: The Software Engineering ROI of UI Frameworks
+title: "Beyond the Grid: The Software Engineering ROI of UI Frameworks"
 date: 2026-07-03
 published: true
 labels:
