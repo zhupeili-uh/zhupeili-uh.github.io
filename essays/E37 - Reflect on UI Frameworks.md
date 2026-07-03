@@ -30,8 +30,7 @@ UI frameworks are essentially pre-packaged software engineering solutions for th
 
 When utilizing Bootstrap 5, for example, the class `.d-flex` immediately tells any developer reading the code that the element is a flexbox container. There is no need to hunt down a custom CSS file to understand the behavior of the component. This standardization vastly improves team collaboration and drastically reduces the time spent debugging layout inconsistencies.
 
-![Comparison of Raw HTML/CSS vs Bootstrap 5 Layout](https://via.placeholder.com/800x400.png?text=HTML/CSS+vs+Bootstrap+5)
-*Figure 1: The structural difference between ad-hoc CSS styling and a standardized UI framework grid.*
+<img src="/img/E37.png" alt="Comparison of Raw HTML/CSS vs Bootstrap 5 Layout" width="50%">
 
 ## My Bootstrap 5 Baptism: Speed Under Pressure
 
