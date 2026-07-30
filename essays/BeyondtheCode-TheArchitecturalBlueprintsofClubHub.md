@@ -13,6 +13,7 @@ labels:
 ---
 
 <img class="img-fluid" src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Architectural blueprints and tools on a table">
+
 *Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough) on Unsplash*
 
 ## Reinventing the Wheel is Exhausting
