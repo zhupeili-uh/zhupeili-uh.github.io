@@ -9,8 +9,6 @@ labels:
 ---
 
 
-  # Effort Estimation Reflection: Club Hub Project
-
 Reflecting on the development of the Club Hub project across its three milestones, I found the process of effort estimation to be a highly insightful exercise. Overall, I found estimating to be relatively manageable, though it certainly required careful forethought. 
 
 Having about a year of prior software development experience gave me a solid baseline to draw from. I found that breaking the project down into granular issues made estimating much easier. For example, rather than estimating "backend development" as a monolithic block, estimating the time for form submissions separately from NextAuth.js role-based access control allowed for much tighter and more realistic predictions. To track my time, I relied on a strict timer, which removed any guesswork. Interestingly, my estimated times ended up matching my actual coding effort almost perfectly—such as estimating and executing the M3 Playwright acceptance tests in exactly 180 minutes. The hardest part of the process, however, was accounting for the psychological pressure; knowing there was a running timer and an estimated target occasionally made the debugging phases feel more urgent and stressful.
